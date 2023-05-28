@@ -1,3 +1,4 @@
+
 #  Automações de Testes
 ### O principal fator é onde o desenvolvedor deve analisar se os testes validam os principais fluxos de uma funcionalidade, se está de fato funcionando como o esperado e garantindo que se algo errado acontecer os testes vão alertar rapidamente.
 ###
